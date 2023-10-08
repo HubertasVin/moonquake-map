@@ -1,9 +1,9 @@
-import { Shiba } from "./components/shiba";
+import { Moon } from "./components/Moon";
 
-export default function Home() {
+export default function Home() {  
   return (
     <main>
-      <Shiba />
+      <Moon />
     </main>
   );
 }
